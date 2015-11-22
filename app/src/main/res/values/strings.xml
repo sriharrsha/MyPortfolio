@@ -1,12 +1,13 @@
 <resources>
     <string name="app_name">My App Portfolio</string>
     <string name="app_title">My App Portfolio!!!</string>
-    <string name="spotify_app_button_text">spotify streamer</string>
-    <string name="scores_app_button_text">scores app</string>
+    <string name="popular_movies1_app_button_text">Popular Movies I</string>
+    <string name="popular_movies2_app_button_text">Popular Movies II</string>
     <string name="build_it_bigger_app_button_text">build it bigger</string>
-    <string name="library_app_button_text">library app</string>
-    <string name="capstone_app_button_text">capstone: my own app</string>
-    <string name="xyz_reader_app_button_text">xyz reader</string>
-
+    <string name="super_duo_app_button_text">Super Duo</string>
+    <string name="capstone1_app_button_text">Capstone I</string>
+    <string name="capstone2_app_button_text">Capstone II</string>
+    <string name="material_app_button_text">Make Your App Material</string>
+    <string name="ubiquitous_app_button_text">Go Ubiquitous</string>
     <string name="action_settings">Settings</string>
 </resources>

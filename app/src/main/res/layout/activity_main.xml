@@ -42,34 +42,34 @@
 
 
         <Button
-            android:id="@+id/spotify_app_button"
+            android:id="@+id/popular_movies1_app_button"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_gravity="top"
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:background="#F08C35"
-            android:text="@string/spotify_app_button_text" />
+            android:text="@string/popular_movies1_app_button_text" />
 
         <Button
-            android:id="@+id/scores_app_button"
+            android:id="@+id/popular_movies2_app_button"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_gravity="top"
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:background="#F08C35"
-            android:text="@string/scores_app_button_text" />
+            android:text="@string/popular_movies2_app_button_text" />
 
         <Button
-            android:id="@+id/library_app_button"
+            android:id="@+id/super_duo_app_button"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_gravity="top"
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:background="#F08C35"
-            android:text="@string/library_app_button_text" />
+            android:text="@string/super_duo_app_button_text" />
 
         <Button
             android:id="@+id/build_it_bigger_app_button"
@@ -82,24 +82,43 @@
             android:text="@string/build_it_bigger_app_button_text" />
 
         <Button
-            android:id="@+id/xyz_reader_button"
+            android:id="@+id/material_app_button"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_gravity="top"
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:background="#F08C35"
-            android:text="@string/xyz_reader_app_button_text" />
+            android:text="@string/material_app_button_text" />
 
         <Button
-            android:id="@+id/capstone_app_button"
+            android:id="@+id/ubiquitous_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="#F08C35"
+            android:text="@string/ubiquitous_app_button_text" />
+
+        <Button
+            android:id="@+id/capstone1_app_button"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_gravity="top"
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:background="#E53935"
-            android:text="@string/capstone_app_button_text"
+            android:text="@string/capstone1_app_button_text"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/capstone2_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="#E53935"
+            android:text="@string/capstone2_app_button_text"
             android:textColor="#FFFFFF" />
 
     </LinearLayout>
